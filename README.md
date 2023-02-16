@@ -1,7 +1,5 @@
-# meu_projeto
-Repositório de teste
+# Exemplo de Pojeto
 
-# Título de exemplo
+## Curso de Desenvolvimento de Sistemas
 
-# Subtítulo de exemplo
-Corpo do markdown
+Este é um exemplo de projeto com git
